@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Felipe</h1>
 <h3 align="center">Estou começando minha transição de carreira para área tech.</h3>
 
-- **Me chamo Felipe, sou formado em Engenharia Química, mas sempre gostei muito da área de programação, por isso comecei a alguns anos comecei a estudar para buscar minha transição de carreira. Iniciei uma faculdade de análise de sistemas, onde aprendi a programar em JAVA, fora da faculdade comecei a estudar Javascritpt e Reactive Native. Possuo um curso de analista de QA e estou aprendendo sobre testes automatizados para melhorar meus projetos pessoais. Hoje considero que possuo um bom conhecimento em JAVA e Javascript e conheço até um pouco sobre C++ durante um pequeno curso de programação de jogos utilizando Unity uma atividade que pretendo explorar mais no futuro.**
+**Me chamo Felipe, sou formado em Engenharia Química, mas sempre gostei muito da área de programação, por isso comecei a alguns anos comecei a estudar para buscar minha transição de carreira. Iniciei uma faculdade de análise de sistemas, onde aprendi a programar.**
+
+**Buscando aprimorar meu conhecimentos fiz  um curso de analista de QA e estou aprendendo sobre testes automatizados para melhorar meus projetos pessoais.**
+
+**Hoje considero que possuo um bom conhecimento em testess funcionais, criação de casos de testes, JAVA e Javascript e conheço e um conhecimento básico em  C++ durante um pequeno curso de programação de jogos utilizando Unity uma atividade que pretendo explorar mais no futuro.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
