@@ -5,7 +5,7 @@
 
 **Buscando aprimorar meu conhecimentos fiz  um curso de analista de QA e estou aprendendo sobre testes automatizados para melhorar meus projetos pessoais.**
 
-**Hoje considero que possuo um bom conhecimento em testess funcionais, criação de casos de testes, JAVA, Javascript e Node e um conhecimento básico em  C++ durante um pequeno curso de programação de jogos utilizando Unity uma atividade que pretendo explorar mais no futuro.**
+**Hoje considero que possuo um bom conhecimento em testess funcionais, criação de casos de testes, JAVA, Javascript e Node e um conhecimento básico em  C++ durante um curso de programação de jogos utilizando Unity uma atividade que pretendo explorar mais no futuro.**
 
 
 <h3 align="left">Connect with me:</h3>
